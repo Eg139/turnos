@@ -1,0 +1,14 @@
+body{
+    height: 95vh;
+    background:rgba(121, 201, 121, 0.884);
+}
+header{
+    margin-bottom: 10px;
+    width: 100%;
+    text-align: center;
+    background: rgba(39, 36, 36, 0.836);
+    bottom: 0px;
+    color: white;
+    height: 5vh;
+}
+
